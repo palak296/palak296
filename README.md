@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Palak Garg</h1>
-<h3 align="center">An IT sophomore and an aspiring app developer</h3>
+<h1 align="center">Hi, I'm Palak Garg  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h3 align="center">An IT Sophomore and an aspiring Flutter Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/ughpalak" target="blank"><img src="https://img.shields.io/twitter/follow/ughpalak?logo=twitter&style=for-the-badge" alt="ughpalak" /></a> </p>
 

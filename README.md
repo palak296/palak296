@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Palak Garg  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">Hi, I'm Palak Garg  </h1>
 <h3 align="center">An IT Sophomore and an aspiring Flutter Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/966681/screenshots/2896143/media/a9fd79b1391ff77fccecb124c5430eb1.gif">

@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Palak  </h1>
-<h3 align="center">A junior undergraduate </h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/966681/screenshots/2896143/media/a9fd79b1391ff77fccecb124c5430eb1.gif">
 
